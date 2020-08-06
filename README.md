@@ -28,3 +28,6 @@ $ npm run dev:server
 -Visit Graphiql IDE
 
 Go to http://localhost:4000/graphql
+
+
+[![HitCount](http://hits.dwyl.com/ajitfawade/customerbase.svg)](http://hits.dwyl.com/ajitfawade/customerbase)
